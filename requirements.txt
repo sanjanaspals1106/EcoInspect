@@ -1,0 +1,10 @@
+numpy==1.26.4
+protobuf>=3.20,<6
+ultralytics
+streamlit
+opencv-python
+pandas
+plotly
+python-dotenv
+groq
+Pillow
